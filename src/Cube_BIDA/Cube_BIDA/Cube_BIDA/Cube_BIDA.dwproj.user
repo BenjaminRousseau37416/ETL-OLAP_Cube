@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Foodies977 DW</Id>
+            <Name>Foodies977 DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3hV2abvVIUy/V+kazK5NWAAAAAAcAAAARgBvAG8AZABpAGUAcwA5ADcANwAgAEQAdwAAABBmAAAAAQAAIAAAAIyIBQ0AXjmDlvs4uJu6T5qbnVP9D5DXov4bvNVoTT+PAAAAAA6AAAAAAgAAIAAAAKxSdCnqt67VD8NXMfxkjLCmPTdkKaWJ62hETKo31KJeEAAAAHJYYOIKP06u1w/MT/vLqpxAAAAAFCrf43XJ8uWq34jXuJWfvDiszedUii4ylVIGBsTlovKbM29JVWlq6KarcqV68ssqcVDzTGnd9UTk6Q97x7/pow==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Foodies977 DW</Id>
+            <Name>Foodies977 DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3hV2abvVIUy/V+kazK5NWAAAAAAcAAAARgBvAG8AZABpAGUAcwA5ADcANwAgAEQAdwAAABBmAAAAAQAAIAAAADiymhnX1yUe+JiOjVgWGXKOFhvdJH3hkPWF0CBrSC1fAAAAAA6AAAAAAgAAIAAAAEzNgH8luetPfOPU233MtrNJWIfq1ozj37p2ckCOI6JDIAAAAP7c5E1CtleQzZHgBvhkb2KPJxR+wNTPrbjNHNI3Lz7kQAAAABSMzuPpAynstOxpZGetdoAygsdpwxJZyRvkMo8IOdwgMZM/CeQN9zrjojfdA53ORs3tXdIz5TYLVz5pDYUhd1Y=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>localhost</TargetServer>
+        <TargetDatabase>Cube_BIDA</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
